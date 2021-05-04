@@ -1,0 +1,3 @@
+camunda.bpm.client:
+  base-url: http://localhost:8080/engine-rest # The URL pointing to the Camunda Platform Runtime REST API
+  worker-id: pizza-topping-selection-client # Identifies the worker towards the Engine
