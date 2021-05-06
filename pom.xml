@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>camunda-external-task-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>camunda-external-task-demo</name>
 
 	<properties>
 		<camunda.spring-boot.version>7.15.0</camunda.spring-boot.version>
